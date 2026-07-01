@@ -1,6 +1,6 @@
 # Five in Six 🟩🟨⬜
 
-A Wordle-inspired word-guessing game built in Python — created as a final project for [Code in Place](https://codeinplace.stanford.edu/).
+A Wordle-inspired word-guessing game built in Python — created as a final project for [Code in Place](https://codeinplace.stanford.edu/cip6/share/f7FfTN3VtZObv2IDdN6I).
 
 ## 🎮 How to Play
 
